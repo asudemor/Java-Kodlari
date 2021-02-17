@@ -12,6 +12,9 @@ public class Main {
 			System.out.println(i);
 		}
 		System.out.println("For Döngüsü Bitti.");
+		
+	  
+	  	//while döngüsü
 
 		int i = 2;
 		while (i<10){
@@ -20,7 +23,9 @@ public class Main {
 		}
 
 		System.out.println("While Döngüsü Bitti.");
-
+	  	
+	  	//do-while döngüsü
+	 
 		int j = 100;
 		do {
 			System.out.println(j);
